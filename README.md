@@ -1,32 +1,13 @@
-🎵 Music Store Data Analysis (SQL Project)
-This project focuses on analyzing a fictional music store database to extract valuable business insights using SQL.
+# SQL_Project_Music_Store_Analysis
+SQL project to analyze online music store data
 
-📌 Project Objective
-To perform structured data analysis on the music store database and answer key business questions, such as:
-Who are the top-selling artists and most popular genres?
-Which countries generate the most revenue?
-What are the customer purchasing trends?
+This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
-🛠️ Skills & Tools Used
-SQL (MySQL/PostgreSQL)
+> Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
 
-Joins, Subqueries, Aggregate Functions
+## Database and Tools
+* Postgre SQL
+* PgAdmin4
 
-GROUP BY, ORDER BY, WHERE Clauses
-
-Data Cleaning & Optimization
-
-📈 Key Insights
-Identified top revenue-generating artists and genres.
-
-Analyzed customer distribution and spending behavior.
-
-Highlighted trends in music purchases by country and customer.
-
-📂 Files Included
-SQL queries used for analysis
-Insight summary in markdown
-Database schema reference
-
-🚀 Outcome
-This project enhanced my practical SQL skills and ability to derive actionable insights from real-world datasets.
+Schema- Music Store Database  
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
